@@ -12,7 +12,8 @@ best_pt_pybullet_Jihye.ipynb 업로드
 1/2 2025
 
 김지혜 
-Yolov8_train_made_by_Mingoo_run_by_Jihye.ipynb 업로드
+Yolov8_train_made_by_Mingoo_run_by_Jihye.ipynb 업로드  
+
 강민구 
 Yolov8_predict.ipynb 업로드
 
