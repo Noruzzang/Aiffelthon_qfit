@@ -9,7 +9,7 @@ best_pt_pymunk_Jihye.ipynb 업로드
 best_pt_pybullet_Jihye.ipynb 업로드    
 
         
-1/2 2025
+1/2 2025   
 김지혜 
 Yolov8_train_made_by_Mingoo_run_by_Jihye.ipynb 업로드     
 
@@ -17,7 +17,7 @@ Yolov8_train_made_by_Mingoo_run_by_Jihye.ipynb 업로드
 Yolov8_predict.ipynb 업로드
 
       
-1/3/2025
+1/3/2025   
 노은하
 pymunk_test_neh_0102.ipynb 업로드
 
@@ -28,7 +28,7 @@ best_pt_January_6th_Jihye 업로드
 best_pt_predict_tested_January_6th_Jihye 업로드    
 
          
-1/7/2025
+1/7/2025   
 노은하
 pymunk_test_neh_0102.ipynb 업로드
 
