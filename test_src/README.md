@@ -5,7 +5,7 @@ pymunk_test_neh_0102.ipynb 업로드
 pybullet_colab_test.ipynb 업로드    
 pybull_test.ipynb 업로드    
 
-김지혜 
+김지혜    
 best_pt_pymunk_Jihye.ipynb 업로드         
 best_pt_pybullet_Jihye.ipynb 업로드    
    
