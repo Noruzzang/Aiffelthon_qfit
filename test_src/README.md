@@ -1,4 +1,4 @@
-12/31/2024     
+![image](https://github.com/user-attachments/assets/a1b9ea79-93a9-4971-b3a6-3bac2c5ef5b8)12/31/2024     
 노은하    
 pymunk_test_neh_0102.ipynb 업로드   
 pybullet_colab_test.ipynb 업로드    
@@ -44,5 +44,8 @@ qfit_model&engine1(250103).ipynb 업로드
 pymunk_test_neh_0108_1.ipynb 업로드(스탭별로 경로표시)   
 pymunk_test_neh_0108_2.ipynb 업로드(수구기준으로 스탭별 경로표시)   
 pymunk_test_neh_0108_3.ipynb 업로드(수구와 목적공1개의 두공간의 경로를 표시, 최종소스)   
+
+1/9/2025
+조규원
 
 
