@@ -36,13 +36,13 @@ pymunk_test_neh_0102.ipynb 업로드
 - 이미지는 본인의 이미지로 변경하고 테스트 요망   
 
       
-임만순
+임만순   
 qfit_model&engine1(250103).ipynb 업로드   
 
-1/8/2025
+1/8/2025   
 노은하
- - pymunk_test_neh_0108_1.ipynb 업로드(스탭별로 경로표시)
- - pymunk_test_neh_0108_2.ipynb 업로드(수구기준으로 스탭별 경로표시)
- - pymunk_test_neh_0108_3.ipynb 업로드(수구와 목적공1개의 두공간의 경로를 표시, 최종소스)
+pymunk_test_neh_0108_1.ipynb 업로드(스탭별로 경로표시)
+pymunk_test_neh_0108_2.ipynb 업로드(수구기준으로 스탭별 경로표시)
+pymunk_test_neh_0108_3.ipynb 업로드(수구와 목적공1개의 두공간의 경로를 표시, 최종소스)
 
 
