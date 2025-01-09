@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/a1b9ea79-93a9-4971-b3a6-3bac2c5ef5b8)12/31/2024    
-여기에 설명 써주세요 
+![image](https://github.com/user-attachments/assets/a1b9ea79-93a9-4971-b3a6-3bac2c5ef5b8)    
+빨간부분에 설명 써주세요
 
 
+12/31/2024    
 노은하    
 pymunk_test_neh_0102.ipynb 업로드   
 pybullet_colab_test.ipynb 업로드    
@@ -51,4 +52,4 @@ pymunk_test_neh_0108_3.ipynb 업로드(수구와 목적공1개의 두공간의 �
 1/9/2025
 조규원
 
-
+pymunk_sim2.ipynb 업로드
