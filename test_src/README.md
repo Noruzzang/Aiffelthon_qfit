@@ -81,3 +81,6 @@ pymunk_sim3.ipynb 업로드
 - model_test_ims_0114_3.ipynb (성공 이미지와 라벨을 활용한 물리 테스트)    
 <br>
 
+1/15/2025  
+윤석진  
+YYY_0115.ipynb 업로드
