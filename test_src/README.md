@@ -4,13 +4,13 @@
 <br>
 12/31/2024    
 노은하    
-pymunk_test_neh_0102.ipynb 업로드    
-pybullet_colab_test.ipynb 업로드    
-pybull_test.ipynb 업로드    
-
+- pymunk_test_neh_0102.ipynb 업로드    
+- pybullet_colab_test.ipynb 업로드    
+- pybull_test.ipynb 업로드      
+     
 김지혜    
-best_pt_pymunk_Jihye.ipynb 업로드    
-best_pt_pybullet_Jihye.ipynb 업로드    
+- best_pt_pymunk_Jihye.ipynb 업로드    
+- best_pt_pybullet_Jihye.ipynb 업로드    
 <br>
 
 1/2/2025    
@@ -28,8 +28,8 @@ pymunk_test_neh_0102.ipynb 업로드
 
 1/6/2025    
 김지혜    
-best_pt_January_6th_Jihye 업로드    
-best_pt_predict_tested_January_6th_Jihye 업로드    
+- best_pt_January_6th_Jihye 업로드    
+- best_pt_predict_tested_January_6th_Jihye 업로드    
 <br>
 
 1/7/2025    
