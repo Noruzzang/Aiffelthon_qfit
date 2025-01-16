@@ -83,4 +83,9 @@ pymunk_sim3.ipynb 업로드
 
 1/15/2025  
 윤석진  
-YYY_0115.ipynb 업로드
+YYY_0115.ipynb 업로드  
+
+1/16/2025  
+윤석진  
+YYY_0116.ipynb 업로드
+
