@@ -81,24 +81,24 @@ pymunk_sim3.ipynb 업로드
 - model_test_ims_0114_3.ipynb (성공 이미지와 라벨을 활용한 물리 테스트)    
 <br>
 
-1/15/2025  
-윤석진  
-YYY_0115.ipynb 업로드  
+1/15/2025    
+윤석진    
+YYY_0115.ipynb 업로드    
 <br>
 
-1/16/2025  
-윤석진  
-YYY_0116.ipynb 업로드
+1/16/2025    
+윤석진    
+YYY_0116.ipynb 업로드    
 <br>
 
-1/21/2025
-임만순
-- 캐롬 3쿠션.RTF (3쿠션 용어 및 경기 규칙에 대한 내용)
-- cv_workflow01_02.ipynb (강민구님의 탑뷰 이미지 표시 소스코드에서 명확성, 가독성, 유지보수를 위해 다음과 같이 수정함)
-  - red → red_ball | white → white_ball | yellow → yellow_ball
-  - yellow_ball 인식률 개선을 위해 HSV 값 범위 조정 : ((20, 100, 100), (30, 255, 255)) → ((15, 100, 100), (40, 255, 255))
-  - table_with_balls_final.png 저장 경로 지정
-  - 명확성, 가독성, 유지보수를 위해 저장 경로를 재구성함 (명명 규칙을 폴더명은 Camel Case로, 파일명은 Snake Case로 표준화)
+1/21/2025    
+임만순    
+- 캐롬 3쿠션.RTF (3쿠션 용어 및 경기 규칙에 대한 내용)    
+- cv_workflow01_02.ipynb (강민구님의 탑뷰 이미지 표시 소스코드에서 명확성, 가독성, 유지보수를 위해 다음과 같이 수정함)    
+  - red → red_ball | white → white_ball | yellow → yellow_ball    
+  - yellow_ball 인식률 개선을 위해 HSV 값 범위 조정 : ((20, 100, 100), (30, 255, 255)) → ((15, 100, 100), (40, 255, 255))    
+  - table_with_balls_final.png 저장 경로 지정    
+  - 명확성, 가독성, 유지보수를 위해 저장 경로를 재구성함 (명명 규칙을 폴더명은 Camel Case로, 파일명은 Snake Case로 표준화)    
 ```
 　　Q-Fit Proj/
 　　├── DataCollection&Preprocessing/
@@ -136,9 +136,9 @@ YYY_0116.ipynb 업로드
 　　│   │   │   ├── table_frame.png
 　　│   │   │   ├── white_ball.png
 　　│   │   │   ├── yellow_ball.png
-　　│   │   ├── Image&TextResult/
-　　│   │   │   ├── billiard_label.txt
-　　│   │   │   ├── billiard_result.png
+　　│   ├── Image&TextResult/
+　　│   │   ├── billiard_label.txt
+　　│   │   ├── billiard_result.png
 　　│   ├── cv_workflow01_01.ipynb
 　　│   ├── cv_workflow01_02.ipynb
 　　│   ├── model_training01_01.pt
@@ -147,3 +147,9 @@ YYY_0116.ipynb 업로드
 　　│   ├── pymunk_simulation01.ipynb
 　　└── (예정) Deployment&Maintenance/
 ```
+- scenario01_ims_0120.ipynb (
+  - 탑뷰 좌표인 label.txt과 result.png 값을 참고하여 경로 계산 및 시각화 (백색 수구 기준)
+  - PyBullet(물리 시뮬레이션 라이브러리)을 이용해 공의 움직임 확인
+<br>
+
+1/22/2025    
