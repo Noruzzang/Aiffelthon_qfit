@@ -94,11 +94,10 @@ YYY_0116.ipynb 업로드
 1/21/2025
 임만순
 - cv_workflow01_02.ipynb (강민구님의 탑뷰 이미지 표시 소스코드에서 명확성, 가독성, 유지보수를 위해 다음과 같이 수정함)
-  > red → red_ball | white → white_ball | yellow → yellow_ball
-  > yellow_ball 인식률 개선을 위해 HSV 값 범위 조정 : ((20, 100, 100), (30, 255, 255)) → ((15, 100, 100), (40, 255, 255))
-  > table_with_balls_final.png 저장 경로 지정
-  > 명확성, 가독성, 유지보수를 위해 저장 경로를 재구성함 (명명 규칙을 폴더명은 Camel Case로, 파일명은 Snake Case로 표준화)
-
+  - red → red_ball | white → white_ball | yellow → yellow_ball
+  - yellow_ball 인식률 개선을 위해 HSV 값 범위 조정 : ((20, 100, 100), (30, 255, 255)) → ((15, 100, 100), (40, 255, 255))
+  - table_with_balls_final.png 저장 경로 지정
+  - 명확성, 가독성, 유지보수를 위해 저장 경로를 재구성함 (명명 규칙을 폴더명은 Camel Case로, 파일명은 Snake Case로 표준화)
 ```
 　　Q-Fit Proj/
 　　├── DataCollection&Preprocessing/
@@ -147,4 +146,3 @@ YYY_0116.ipynb 업로드
 　　│   ├── pymunk_simulation01.ipynb
 　　├── (예정) Deployment&Maintenance/
 ```
-
