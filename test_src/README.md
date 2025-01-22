@@ -100,7 +100,7 @@ YYY_0116.ipynb 업로드
   - table_with_balls_final.png 저장 경로 지정    
   - 명확성, 가독성, 유지보수를 위해 저장 경로를 재구성함 (명명 규칙을 폴더명은 Camel Case로, 파일명은 Snake Case로 표준화)    
 ```
-　　Q-Fit Proj/
+　　Q-FitProj/
 　　├── DataCollection&Preprocessing/
 　　│   ├── DataCollection/
 　　│   │   ├── MatchVideo/
@@ -153,3 +153,4 @@ YYY_0116.ipynb 업로드
 <br>
 
 1/22/2025    
+
