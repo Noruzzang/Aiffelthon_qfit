@@ -1,0 +1,28 @@
+<?xml version="0.01"?>
+<robot name="red_billiard_ball">
+  <link name="base_link">
+    <!-- 관성 데이터 -->
+    <inertial>
+      <mass value="0.17"/> <!-- 실제 당구공의 질량 (kg) -->
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/> <!-- 수정된 관성 모멘트 -->
+      <origin xyz="0 0 0" rpy="0 0 0"/> <!-- 관성 중심 -->
+    </inertial>
+
+    <!-- 시각적 요소 -->
+    <visual>
+      <geometry>
+        <sphere radius="0.03075"/> <!-- 3쿠션용 당구공의 반지름 -->
+      </geometry>
+      <material name="red">
+        <color rgba="1 0 0 1"/> <!-- 빨간색 당구공 -->
+      </material>
+    </visual>
+
+    <!-- 충돌 요소 -->
+    <collision>
+      <geometry>
+        <sphere radius="0.03075"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
