@@ -93,6 +93,7 @@ YYY_0116.ipynb 업로드
 
 1/21/2025
 임만순
+- 캐롬 3쿠션.RTF (3쿠션 용어 및 경기 규칙에 대한 내용)
 - cv_workflow01_02.ipynb (강민구님의 탑뷰 이미지 표시 소스코드에서 명확성, 가독성, 유지보수를 위해 다음과 같이 수정함)
   - red → red_ball | white → white_ball | yellow → yellow_ball
   - yellow_ball 인식률 개선을 위해 HSV 값 범위 조정 : ((20, 100, 100), (30, 255, 255)) → ((15, 100, 100), (40, 255, 255))
@@ -144,5 +145,5 @@ YYY_0116.ipynb 업로드
 　　├── (예정) ModelEvaluation&Optimization/
 　　├── AppDevelopment&Integration/
 　　│   ├── pymunk_simulation01.ipynb
-　　├── (예정) Deployment&Maintenance/
+　　└── (예정) Deployment&Maintenance/
 ```
