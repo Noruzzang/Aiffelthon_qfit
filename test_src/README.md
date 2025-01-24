@@ -139,21 +139,26 @@ YYY_0116.ipynb 업로드
 　　│   ├── Image&TextResult/
 　　│   │   ├── billiard_label.txt
 　　│   │   ├── billiard_result.png
-　　│   ├── cv_workflow01_01.ipynb
-　　│   ├── cv_workflow01_02.ipynb
-　　│   ├── model_training01_01.pt
+　　│   ├── cv_workflow01_Mingoo_0106.ipynb
+　　│   ├── cv_workflow02_(colab)_Mansoon_0121.ipynb
+　　│   ├── cv_workflow03_(local)_Mansoon_0123.ipynb
 　　├── (예정) ModelEvaluation&Optimization/
 　　├── AppDevelopment&Integration/
 　　│   ├── pymunk_simulation01.ipynb
 　　└── (예정) Deployment&Maintenance/
 ```
-- scenario01_ims_0120.ipynb (
-  - 탑뷰 좌표인 label.txt과 result.png 값을 참고하여 경로 계산 및 시각화 (백색 수구 기준)
-  - PyBullet(물리 시뮬레이션 라이브러리)을 이용해 공의 움직임 확인
+- scenario01_ims_0120.ipynb ()    
+  - 탑뷰 좌표인 label.txt과 result.png 값을 참고하여 경로 계산 및 시각화 (백색 수구 기준)    
+  - PyBullet(물리 시뮬레이션 라이브러리)을 이용해 공의 움직임 확인    
 <br>
 
 1/22/2025    
 임만순    
-플러터 개발 환경 설정
+플러터 개발 환경 설정    
+<br>
+
+1/23/2025    
+임만순)    
+cv_workflow03_(local)_Mansoon_0123.ipynb    
 <br>
 
