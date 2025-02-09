@@ -42,7 +42,7 @@
 |              |      ├── 📄 upload_image_check.py   
 |              |        
 |              ├── 📂 venv  
-|                     ├── 📄 read.txt
+|                     ├── 📄 read.txt   
 |              ├── 📄 requirements.txt     
 |            
 ├── 📄 README.md             
