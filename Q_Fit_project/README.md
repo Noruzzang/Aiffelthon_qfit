@@ -2,15 +2,12 @@
 
 📂 Q_Fit_project (프로젝트 디렉토리)   
 │             
-├── 📂 model_src  (전처리 및 시뮬레이션 처리: 사용자가 전송한 이미지 전처리 후 경로 검출)     
-|                          │   
+├── 📂 model_src  (전처리 및 시뮬레이션 처리: 사용자가 전송한 이미지 전처리 후 경로 검출)   
+│      |   
 |      ├── 📂 upload_image  (앱 카메라로 찍은 이미지 저장)   
-
 |      |       ├── 📄 read.txt
-
 |      │   
 |      ├── 📂 image  (기본 이미지 참조)    
-
 |      |      ├── 📄 Roboto-Regular.ttf   
 |      |      ├── 📄 frame.png   
 |      |      ├── 📄 hit_point.png   
