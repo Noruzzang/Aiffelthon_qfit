@@ -138,7 +138,7 @@ class SelectPage extends StatelessWidget {
 
     //print('imagePath: $imagePath');
     //요청을 보낼 서버의 URL을 설정
-    var uri = Uri.parse('https://bb6c-112-172-64-10.ngrok-free.app/upload_image/');
+    var uri = Uri.parse('https://7a3f-112-172-64-10.ngrok-free.app/upload_image/');
 
     //POST 요청을 보낼 MultipartRequest 객체를 생성
     var request = http.MultipartRequest('POST', uri);

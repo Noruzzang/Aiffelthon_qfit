@@ -53,7 +53,7 @@ class _ResultPageState extends State<ResultPage> {
   //FastAPI에서 3개의 이미지 URL 가져오기
   Future<Map<String, dynamic>> fetchImageUrls(String imagePrefix) async {
     try {
-      var apiBaseUrl = 'https://bb6c-112-172-64-10.ngrok-free.app/image_info/'; // FastAPI 서버 주소
+      var apiBaseUrl = 'https://7a3f-112-172-64-10.ngrok-free.app/image_info/'; // FastAPI 서버 주소
       //var url = Uri.parse('$apiBaseUrl/image_info/$imagePrefix'); // 20250204201549_0
       //print('API 요청 URL: $url'); // 요청 URL 확인
 
