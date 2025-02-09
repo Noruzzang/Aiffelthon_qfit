@@ -1,6 +1,6 @@
 
 # Aiffelthon_qfit/Q_Fit_project/
-
+'''
 📂 Q_Fit_project (프로젝트 디렉토리)   
 │             
 ├── 📂 model_src  (전처리 및 시뮬레이션 처리: 사용자가 전송한 이미지 전처리 후 경로 검출)   
@@ -46,7 +46,7 @@
 |                     ├── 📄 read.txt   
 |              ├── 📄 requirements.txt     
 |            
-├── 📄 README.md             
+├── 📄 README.md'''             
 
 
 # 📂 Q_Fit_project (프로젝트 디렉토리)  
