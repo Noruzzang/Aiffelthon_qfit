@@ -107,7 +107,7 @@ async def upload_image(file: UploadFile = File(...)):
 @app.get("/image_info/{image_prefix}")
 async def get_image_info(image_prefix: str):
     try:
-        api_base_url = "https://bb6c-112-172-64-10.ngrok-free.app"  # FastAPI 서버 주소
+        api_base_url = "https://7a3f-112-172-64-10.ngrok-free.app"  # FastAPI 서버 주소
         logger.info(f"API 요청 도착: image_prefix={image_prefix}")
 
         image_names = [
